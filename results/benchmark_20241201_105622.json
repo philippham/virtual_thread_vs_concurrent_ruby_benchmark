@@ -1,0 +1,45 @@
+{
+  "configuration": {
+    "timestamp": "2024-12-01T10:56:22.800-0500",
+    "jruby_version": "9.4.3.0",
+    "java_version": "21.0.5",
+    "processors": 12,
+    "max_memory": 2048
+  },
+  "results": {
+    "VirtualThreadImplementation": {
+      "durations": [
+        1365.6280000000002,
+        191.04399999999998,
+        739.074
+      ],
+      "memory": [
+        77382000,
+        74703352,
+        71452200
+      ],
+      "gc_counts": [
+        8,
+        1,
+        4
+      ]
+    },
+    "ConcurrentRubyImplementation": {
+      "durations": [
+        45888.807,
+        43340.471,
+        45187.59100000001
+      ],
+      "memory": [
+        -57047032,
+        8012712,
+        8312
+      ],
+      "gc_counts": [
+        2,
+        1,
+        3
+      ]
+    }
+  }
+}
