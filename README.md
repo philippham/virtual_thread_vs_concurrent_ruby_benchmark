@@ -2,6 +2,7 @@ Enhanced Concurrency Implementation Proposal
 
 Server Engineer: Phi Pham (Philip)
 Git repo: https://github.com/philippham/virtual_thread_vs_concurrent_ruby_benchmark
+
 Concurrent Ruby Deep Dive
 Architecture & Core Concepts
 - Built on traditional thread pool model using OS-level threads
